@@ -74,3 +74,20 @@ spell that <user.formatters> <user.letters>:
 
 # Escape, type things that would otherwise be commands
 ^escape <user.text>$: user.dictation_insert(user.text)
+
+work pass: "Clockworks!789"
+work mail: "andrew.sowell@warnermedia.com"
+disco pass: "Clockworks!789"
+disco mail: "andrew_sowell-wm@discovery.com"
+work name: "asowell"
+earl count: "hurleyAccountId"
+off pass: "Clockworks$79"
+box pass: "winter.3"
+
+my mail: "andrewsowell979@gmail.com"
+my pass: "Rachpag79!"
+lower pass: "rachpag79"
+my name: "Andrew Sowell"
+my pumpkin: "pumpkinheads79"
+my address: "322 W 57th St #27E"
+my phone: "9094990698"
