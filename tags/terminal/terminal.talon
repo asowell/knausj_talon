@@ -20,6 +20,8 @@ copy paste:
     sleep(50ms)
     edit.paste()
 
+go to user: "cd ~/wbd/users/users/\n"
+
 build it: "make npm-run-script script=build\n"
 start it: "make start\n"
 stop integrate: "make stop-integration\n"
@@ -29,7 +31,7 @@ depends stop: "make stop-dependencies\n"
 
 big test it: "make integration-test\n"
 
-install it: "make npm-install\n"
+install it: "mvn install\n"
 P.m. install: "npm install\n"
 local test: "npm run test\n"
 
@@ -79,3 +81,6 @@ retry:
 	key(enter)
 
 kill it: "kill -15 "
+
+profile me: "awsprofile\n"
+

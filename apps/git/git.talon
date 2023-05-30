@@ -21,6 +21,7 @@ git show head$: "git show HEAD\n"
 git diff$: "git diff\n"
 git diff (cached | cashed)$: "git diff --cached\n"
 get add all: "git add .\n"
+get track: "git checkout --track "
 
 # Convenience
 git clone clipboard:
