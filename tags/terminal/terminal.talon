@@ -82,5 +82,5 @@ retry:
 
 kill it: "kill -15 "
 
-profile me: "awsprofile\n"
+profile me: "aws_sso_profile\n"
 
