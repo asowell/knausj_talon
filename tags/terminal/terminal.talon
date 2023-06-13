@@ -83,4 +83,4 @@ retry:
 kill it: "kill -15 "
 
 profile me: "aws_sso_profile\n"
-
+right quit: ":wq\n"

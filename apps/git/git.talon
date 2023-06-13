@@ -20,8 +20,14 @@ git add patch$: "git add --patch\n"
 git show head$: "git show HEAD\n"
 git diff$: "git diff\n"
 git diff (cached | cashed)$: "git diff --cached\n"
+
+get amend: "git commit --amend\n"
 get add all: "git add .\n"
 get track: "git checkout --track "
+get fetch: "git fetch\n"
+get stat: "git status\n"
+get pull: "git pull\n"
+get push: "git push\n"
 
 # Convenience
 git clone clipboard:
