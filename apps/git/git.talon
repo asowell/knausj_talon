@@ -22,7 +22,7 @@ git diff$: "git diff\n"
 git diff (cached | cashed)$: "git diff --cached\n"
 
 get amend: "git commit --amend\n"
-get add all: "git add .\n"
+get (at | add) all: "git add .\n"
 get track: "git checkout --track "
 get fetch: "git fetch\n"
 get stat: "git status\n"

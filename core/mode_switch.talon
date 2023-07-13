@@ -1,1 +1,1 @@
-key(\): speech.toggle()
+key(f1): speech.toggle()
