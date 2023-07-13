@@ -23,3 +23,10 @@ suspend: key(ctrl-z)
 resume:
     insert("fg")
     key(enter)
+
+change: "cd "
+list: "ls\n"
+new tab: key(cmd-t)
+
+cancel: key(cmd-c)
+ex post: "\q\n"

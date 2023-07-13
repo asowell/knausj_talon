@@ -6,7 +6,7 @@ scroll down: edit.page_down()
 cops: edit.copy()
 cuts: edit.cut()
 (pace | paste): edit.paste()
-(pace | paste) enter:
+(pace | paste) it:
     edit.paste()
     key(enter)
 undy: edit.undo()
