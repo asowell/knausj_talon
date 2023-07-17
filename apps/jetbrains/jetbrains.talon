@@ -260,3 +260,6 @@ blacken: user.idea("action BLACKReformatCode")
 
 cops: key(cmd-c)
 paste: key(cmd-v)
+defy:
+    insert(": \"\"")
+    key(left)

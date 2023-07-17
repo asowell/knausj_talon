@@ -5,7 +5,7 @@ scroll up: edit.page_up()
 scroll down: edit.page_down()
 cops: edit.copy()
 cuts: edit.cut()
-(pace | paste): edit.paste()
+pace: edit.paste()
 (pace | paste) it:
     edit.paste()
     key(enter)
