@@ -27,6 +27,8 @@ resume:
 change: "cd "
 list: "ls\n"
 new tab: key(cmd-t)
+present: "pwd\n"
+clear: key(cmd-k)
 
 cancel: key(ctrl-c)
 ex post: "\q\n"

@@ -1,7 +1,10 @@
-intell: "intellij "
+intel: "intellij "
 crime job: "cronjob"
 crime jobs: "cronjobs"
 Gibbs: "Kibana "
 graphs: "Grafana "
-
+post Chris: "postgres "
 arrow: "=>"
+
+install: "mvn install\n"
+depends: "mvn dependency:tree\n"

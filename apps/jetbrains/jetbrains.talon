@@ -263,3 +263,6 @@ paste: key(cmd-v)
 defy:
     insert(": \"\"")
     key(left)
+
+step:  key(cmd-b)
+find it: key(cmd-f)
